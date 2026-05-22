@@ -153,8 +153,8 @@ If you are using a disk interface (e.g. MSX-DOS or a Flash cartridge), make sure
 
 ## License
 
-This project is released to the public domain. Do whatever you like with it — hack it, port it, load it on real iron, share it with fellow retro-computing enthusiasts.
+Anyone is free to use, modify, and share this program, provided that credit is given to the original author and a reference to this repository is included.
 
 ---
 
-*Written in MSX BASIC • Tested on real hardware • No emulator required (but WebMSX works too)*
+*Written in MSX BASIC • Tested on real hardware*
