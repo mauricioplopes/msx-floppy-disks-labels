@@ -1,5 +1,6 @@
 10 REM *** ETIQUETAS 3x6 - MSX BASIC ***
 20 REM     HotBit MSX - Epson LX-300
+25 REM     Autor: Mauricio lopes - https://github.com/mauricioplopes
 30 SCREEN 0:WIDTH 40:COLOR 15,1,1:CLS
 35 CLEAR 4000
 40 REM === CONSTANTES DE LAYOUT ===
