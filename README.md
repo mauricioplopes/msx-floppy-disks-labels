@@ -6,7 +6,7 @@ A menu-driven MSX BASIC program that prints a full sheet of 18 floppy disk label
 
 ## Overview
 
-![MSX HotBit setup with Epson LX-300+II and printed labels](Screenshot_from_2026-05-22_16-26-12.png)
+![MSX HotBit setup with Epson LX-300+II and printed labels](image-01.png)
 
 *MSX HotBit computer connected to an Epson LX-300+II dot-matrix printer, with freshly printed label sheets and labeled 3.5" floppies.*
 
@@ -18,7 +18,7 @@ The program is entirely self-contained in MSX BASIC — no external libraries, n
 
 ## Results
 
-![Printed labels applied to 3.5" floppy disks](Screenshot_from_2026-05-22_16-26-43.png)
+![Printed labels applied to 3.5" floppy disks](image-02.png)
 
 *Labels printed and applied to 3.5" floppy disks. Titles visible include SUPER CALC, 100 DICAS MSX, MS-DOS 1.03, ELITE 1987, FROGGER, H.E.R.O., ZANAC, GALAGA, and ARKANOID — all for MSX.*
 
